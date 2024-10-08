@@ -16,7 +16,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Stephen",
+  "author": "Quepee",
   "license": "ISC",
   "description": ""
 }
